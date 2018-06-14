@@ -1,0 +1,21 @@
+.jumbotron {
+    margin-top: 79px;
+    background-image: url("https://cdn.lawnlove.com/images/baseball-field-1548348_960_720.jpg");
+    background-size: cover;
+    background-position: bottom;
+}
+
+.center-text {
+    text-align: center;
+    height: 150px;
+}
+
+.title {
+    font-size: 150px;
+    color: white;
+}
+
+.lead {
+    font-size: 45px;
+    color: white;
+}
